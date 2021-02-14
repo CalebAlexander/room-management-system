@@ -47,6 +47,7 @@ import Calendar from './components/Calendar.vue'
 // import ToDo from './components/ToDo.vue'
 import Habitica from './components/Habitica.vue'
 // import HelloWorld from './components/HelloWorld.vue'
+// this worked
 
 export default {
   name: 'App',
