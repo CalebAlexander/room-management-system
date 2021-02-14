@@ -7,7 +7,7 @@
 				<div class="flex">
 					<div>
 						<!-- Temperature -->
-						<h3 class="text-7xl">{{weather.current.temp}}&#176;</h3>        
+						<h3 class="text-6xl">{{weather.current.temp}}&#176;</h3>        
 					</div>
 					<div>
 						<!-- Weather symbol -->
